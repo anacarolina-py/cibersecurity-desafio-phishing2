@@ -20,5 +20,5 @@ A phishing test for the class
 
 ### Resutados
 
-![Alt text](![image](https://github.com/user-attachments/assets/b380dc23-2b49-4a49-b35c-bf7085cd2c78)
-)
+![Resultado](https://github.com/anacarolina-py/cibersecurity-desafio-phishing2/blob/main/Resultado.png?raw=true)
+
