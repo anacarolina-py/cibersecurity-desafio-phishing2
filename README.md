@@ -1,6 +1,6 @@
 # cibersecurity-desafio-phishing2
 A phishing test for the class 
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Google
 
 ### Ferramentas
 
